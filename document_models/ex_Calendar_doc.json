@@ -1,0 +1,11 @@
+{
+  "_id": "12899-2023-03-23",
+  "listing_id": 12899,
+  "date": "2023-03-23",
+  "available": 0,
+  "city": "portland",
+  "price": 80.0,
+  "adjusted_price": 80.0,
+  "minimum_nights": 3,
+  "maximum_nights": 1125
+}
